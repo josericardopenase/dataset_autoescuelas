@@ -21,7 +21,7 @@ Los datos se han recopilado a partir de dos fuentes oficiales de la **Dirección
 
 ## Representación gráfica
 
-![Gráfico](img_1.png){ width=50% style="display:inline-block;" }
+![Gráfico](img_1.png)
 
 
 ## Contenido del dataset
