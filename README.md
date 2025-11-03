@@ -1,12 +1,3 @@
----
-title: "Dataset: Exámenes de Conducir por Autoescuela en la Provincia de Canarias"
-author: "Jose R. Peña Seco"
-date: "3 noviembre 2025"
-header-includes:
-  - \usepackage[spanish]{babel}
-output: pdf_document
----
-
 # Exámenes de conducir por autoescuela en la provincia de Canarias
 
 ## Descripción
