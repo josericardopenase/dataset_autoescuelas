@@ -79,3 +79,4 @@ Este contenido se distribuye bajo la licencia [CC BY-NC-SA 4.0](https://creative
 
 ## Acceso
 - Zenodo: https://zenodo.org/records/17512444
+- Video: https://drive.google.com/file/d/1ab7rWnmr4xg6F8I0mDzAy4z1aw1MMPLt/view?usp=sharing
