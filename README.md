@@ -75,3 +75,7 @@ Este contenido se distribuye bajo la licencia [CC BY-NC-SA 4.0](https://creative
 - Se requiere **atribución** al autor.  
 - No se permite uso comercial.  
 - Las obras derivadas deben compartirse bajo la **misma licencia**.
+
+
+## Acceso
+- Zenodo: https://zenodo.org/records/17512444
